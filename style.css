@@ -1,0 +1,15 @@
+h1{
+text-align: center;
+color: chartreuse;
+}
+body{
+    background-color: blue;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: chartreuse;
+}
+img{
+height: 600px;
+}
